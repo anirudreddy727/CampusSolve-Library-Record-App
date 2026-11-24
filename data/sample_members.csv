@@ -1,0 +1,16 @@
+member_id,name,email,phone,member_type,joined_on,max_books
+M001,Zoë García 1,member1@campus.edu,+91-9876500001,Faculty,2026-11-20,5
+M002,Mina Patel 2,member2@campus.edu,+91-9876500002,Staff,2026-11-16,4
+M003,Noah Kim 3,member3@campus.edu,+91-9876500003,Student,2026-11-12,3
+M004,Fatima Noor 4,member4@campus.edu,+91-9876500004,Faculty,2026-11-08,5
+M005,Aarav Mehta 5,member5@campus.edu,+91-9876500005,Staff,2026-11-04,4
+M006,Zoë García 6,member6@campus.edu,+91-9876500006,Student,2026-10-31,3
+M007,Mina Patel 7,member7@campus.edu,+91-9876500007,Faculty,2026-10-27,5
+M008,Noah Kim 8,member8@campus.edu,+91-9876500008,Staff,2026-10-23,4
+M009,Fatima Noor 9,member9@campus.edu,+91-9876500009,Student,2026-10-19,3
+M010,Aarav Mehta 10,member10@campus.edu,+91-9876500010,Faculty,2026-10-15,5
+M011,Zoë García 11,member11@campus.edu,+91-9876500011,Staff,2026-10-11,4
+M012,Mina Patel 12,member12@campus.edu,+91-9876500012,Student,2026-10-07,3
+M013,Noah Kim 13,member13@campus.edu,+91-9876500013,Faculty,2026-10-03,5
+M014,Fatima Noor 14,member14@campus.edu,+91-9876500014,Staff,2026-09-29,4
+M015,Aarav Mehta 15,member15@campus.edu,+91-9876500015,Student,2026-09-25,3

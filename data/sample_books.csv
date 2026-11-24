@@ -1,0 +1,41 @@
+book_id,title,author,category,isbn,total_copies,available_copies,added_on,value
+B001,Modern Fiction Stories,Author 2,Fiction,9780000000001,2,2,2026-11-23,200.0
+B002,Complete Science Research,Author 3,Science,9780000000002,3,3,2026-11-22,200.0
+B003,Foundations of History Guide,Author 4,History,9780000000003,4,4,2026-11-21,200.0
+B004,Practical Mathematics Systems,Author 5,Mathematics,9780000000004,5,5,2026-11-20,200.0
+B005,Modern Biography Stories,Author 6,Biography,9780000000005,1,1,2026-11-19,200.0
+B006,A Remarkably Long Reference Title for Pagination and Truncation Demonstrations,Author 7,Business,9780000000006,2,2,2026-11-18,200.0
+B007,Foundations of Art Guide,Author 8,Art,9780000000007,3,3,2026-11-17,200.0
+B008,Practical CS Systems,Author 9,CS,9780000000008,4,4,2026-11-16,200.0
+B009,Modern Fiction Stories,Author 10,Fiction,9780000000009,5,5,2026-11-15,200.0
+B010,Complete Science Research,Author 11,Science,9780000000010,1,1,2026-11-14,200.0
+B011,Foundations of History Guide,Author 12,History,9780000000011,2,0,2026-11-13,200.0
+B012,Practical Mathematics Systems,Author 13,Mathematics,9780000000012,3,3,2026-11-12,200.0
+B013,Modern Biography Stories,Author 1,Biography,9780000000013,4,4,2026-11-11,200.0
+B014,Complete Business Research,Author 2,Business,9780000000014,5,5,2026-11-10,200.0
+B015,Foundations of Art Guide,Author 3,Art,9780000000015,1,1,2026-11-09,200.0
+B016,Practical CS Systems,Author 4,CS,9780000000016,2,2,2026-11-08,200.0
+B017,Modern Fiction Stories,Author 5,Fiction,9780000000017,3,3,2026-11-07,200.0
+B018,Complete Science Research,Author 6,Science,9780000000018,4,4,2026-11-06,200.0
+B019,Foundations of History Guide,Author 7,History,9780000000019,5,5,2026-11-05,200.0
+B020,Practical Mathematics Systems,Author 8,Mathematics,9780000000020,1,1,2026-11-04,200.0
+B021,Modern Biography Stories,Author 9,Biography,9780000000021,2,2,2026-11-03,200.0
+B022,Complete Business Research,Author 10,Business,9780000000022,3,0,2026-11-02,200.0
+B023,Foundations of Art Guide,Author 11,Art,9780000000023,4,4,2026-11-01,200.0
+B024,Practical CS Systems,Author 12,CS,9780000000024,5,5,2026-10-31,200.0
+B025,Modern Fiction Stories,Author 13,Fiction,9780000000025,1,1,2026-10-30,200.0
+B026,Complete Science Research,Author 1,Science,9780000000026,2,2,2026-10-29,200.0
+B027,Foundations of History Guide,Author 2,History,9780000000027,3,3,2026-10-28,200.0
+B028,Practical Mathematics Systems,Author 3,Mathematics,9780000000028,4,4,2026-10-27,200.0
+B029,Modern Biography Stories,Author 4,Biography,9780000000029,5,5,2026-10-26,200.0
+B030,Complete Business Research,Author 5,Business,9780000000030,1,1,2026-10-25,200.0
+B031,Foundations of Art Guide,Author 6,Art,9780000000031,2,2,2026-10-24,200.0
+B032,Practical CS Systems,Author 7,CS,9780000000032,3,3,2026-10-23,200.0
+B033,Modern Fiction Stories,Author 8,Fiction,9780000000033,4,0,2026-10-22,200.0
+B034,Complete Science Research,Author 9,Science,9780000000034,5,5,2026-10-21,200.0
+B035,Foundations of History Guide,Author 10,History,9780000000035,1,1,2026-10-20,200.0
+B036,Practical Mathematics Systems,Author 11,Mathematics,9780000000036,2,2,2026-10-19,200.0
+B037,Modern Biography Stories,Author 12,Biography,9780000000037,3,3,2026-10-18,200.0
+B038,Complete Business Research,Author 13,Business,9780000000038,4,4,2026-10-17,200.0
+B039,Foundations of Art Guide,Author 1,Art,9780000000039,5,5,2026-10-16,200.0
+B040,Practical CS Systems,Author 2,CS,9780000000040,1,1,2026-10-15,200.0

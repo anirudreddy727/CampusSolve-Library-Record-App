@@ -1,0 +1,137 @@
+[
+  {
+    "member_id": "M001",
+    "name": "Zoë García 1",
+    "email": "member1@campus.edu",
+    "phone": "+91-9876500001",
+    "member_type": "Faculty",
+    "joined_on": "2026-11-20",
+    "max_books": 5
+  },
+  {
+    "member_id": "M002",
+    "name": "Mina Patel 2",
+    "email": "member2@campus.edu",
+    "phone": "+91-9876500002",
+    "member_type": "Staff",
+    "joined_on": "2026-11-16",
+    "max_books": 4
+  },
+  {
+    "member_id": "M003",
+    "name": "Noah Kim 3",
+    "email": "member3@campus.edu",
+    "phone": "+91-9876500003",
+    "member_type": "Student",
+    "joined_on": "2026-11-12",
+    "max_books": 3
+  },
+  {
+    "member_id": "M004",
+    "name": "Fatima Noor 4",
+    "email": "member4@campus.edu",
+    "phone": "+91-9876500004",
+    "member_type": "Faculty",
+    "joined_on": "2026-11-08",
+    "max_books": 5
+  },
+  {
+    "member_id": "M005",
+    "name": "Aarav Mehta 5",
+    "email": "member5@campus.edu",
+    "phone": "+91-9876500005",
+    "member_type": "Staff",
+    "joined_on": "2026-11-04",
+    "max_books": 4
+  },
+  {
+    "member_id": "M006",
+    "name": "Zoë García 6",
+    "email": "member6@campus.edu",
+    "phone": "+91-9876500006",
+    "member_type": "Student",
+    "joined_on": "2026-10-31",
+    "max_books": 3
+  },
+  {
+    "member_id": "M007",
+    "name": "Mina Patel 7",
+    "email": "member7@campus.edu",
+    "phone": "+91-9876500007",
+    "member_type": "Faculty",
+    "joined_on": "2026-10-27",
+    "max_books": 5
+  },
+  {
+    "member_id": "M008",
+    "name": "Noah Kim 8",
+    "email": "member8@campus.edu",
+    "phone": "+91-9876500008",
+    "member_type": "Staff",
+    "joined_on": "2026-10-23",
+    "max_books": 4
+  },
+  {
+    "member_id": "M009",
+    "name": "Fatima Noor 9",
+    "email": "member9@campus.edu",
+    "phone": "+91-9876500009",
+    "member_type": "Student",
+    "joined_on": "2026-10-19",
+    "max_books": 3
+  },
+  {
+    "member_id": "M010",
+    "name": "Aarav Mehta 10",
+    "email": "member10@campus.edu",
+    "phone": "+91-9876500010",
+    "member_type": "Faculty",
+    "joined_on": "2026-10-15",
+    "max_books": 5
+  },
+  {
+    "member_id": "M011",
+    "name": "Zoë García 11",
+    "email": "member11@campus.edu",
+    "phone": "+91-9876500011",
+    "member_type": "Staff",
+    "joined_on": "2026-10-11",
+    "max_books": 4
+  },
+  {
+    "member_id": "M012",
+    "name": "Mina Patel 12",
+    "email": "member12@campus.edu",
+    "phone": "+91-9876500012",
+    "member_type": "Student",
+    "joined_on": "2026-10-07",
+    "max_books": 3
+  },
+  {
+    "member_id": "M013",
+    "name": "Noah Kim 13",
+    "email": "member13@campus.edu",
+    "phone": "+91-9876500013",
+    "member_type": "Faculty",
+    "joined_on": "2026-10-03",
+    "max_books": 5
+  },
+  {
+    "member_id": "M014",
+    "name": "Fatima Noor 14",
+    "email": "member14@campus.edu",
+    "phone": "+91-9876500014",
+    "member_type": "Staff",
+    "joined_on": "2026-09-29",
+    "max_books": 4
+  },
+  {
+    "member_id": "M015",
+    "name": "Aarav Mehta 15",
+    "email": "member15@campus.edu",
+    "phone": "+91-9876500015",
+    "member_type": "Student",
+    "joined_on": "2026-09-25",
+    "max_books": 3
+  }
+]
